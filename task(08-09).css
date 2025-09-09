@@ -1,0 +1,62 @@
+h3{
+    margin-top: 5px;
+    text-align: center;
+    font-size: large;
+}
+
+
+hr {          
+  height: 0.5px;           
+  background-color: #000; 
+  margin: 90px; 
+  display: block;       
+}
+
+
+.nav-bar{
+    padding: 15px;
+    width: 80%;
+    background-color: black;
+    margin-left:auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav-bar a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.nav-bar1{
+    padding:15px;
+    width: 80%;
+    background-color: black;
+    margin-left:auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: start;
+}
+
+.left-bar{
+    margin-right:auto;
+}
+
+.left-bar a{
+    padding: 10px;
+    color: aliceblue;
+    cursor: pointer;
+}
+
+.right-bar {
+    margin-left: auto;   
+}
+
+.right-bar a{
+    color: aliceblue;
+    cursor: pointer;
+}
